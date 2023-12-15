@@ -28,8 +28,6 @@ The Resume Generator Project is a web-based application designed to streamline a
 ### Prerequisites
 
 - Node.js installed
-- MongoDB installed and running
-- [Additional dependencies]
 
 ### Installation
 
