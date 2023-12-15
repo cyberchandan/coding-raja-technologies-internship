@@ -19,10 +19,8 @@ The Resume Generator Project is a web-based application designed to streamline a
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
+- **Frontend**: HTML, CSS, JavaScript.
+
 - **PDF Generation**: [Library Name]
 
 ## Getting Started
